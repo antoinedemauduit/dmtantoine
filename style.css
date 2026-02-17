@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* font-family: ; Choose 3 fonts style for the font family (Arial, Helvetica...)*/
+    / * font-family: ; 3 Arial , Helvetica /
 }
 
 
 body {
     min-height: 100vh;
-    /* background: choose your own background color */
+    background:linear gradient (#0000ff, #ffa500
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@ body {
 
 .container {
     width: 100%;
-    /* max-width: ; choose the max width of tyour container*/
+  /// * max-width: ; choose the max width of tyour container*/
     text-align: center;
     padding: 30px 20px;
 }
@@ -36,14 +36,14 @@ body {
 
 h1 {
     /* Add a font style for the title */
-    font-size: 26px;
+    font-size: 12px;
     margin-bottom: 8px;
 }
 
 
 .bio {
     /* font-size: ; modify the font size to be different from h1*/
-    opacity: 0.85;
+    opacity: 26px;
     margin-bottom: 25px;
 }
 
@@ -61,7 +61,7 @@ h1 {
     /* padding: ; choose a padding dimension
     /!\ there are 2 dimensions !!*/
     text-decoration: none;
-    /* color: ; change the color */
+    / color: ; red */
     font-weight: bold;
 
     display: flex;
@@ -73,8 +73,8 @@ h1 {
 }
 
 .link-btn img {
-    /* width: ;
-    height: ;
+    width: 20px ;
+    height: 30px ;
     Choose a size of image (note : should ba a square so x = y) */
 }
 
